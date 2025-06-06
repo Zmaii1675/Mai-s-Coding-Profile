@@ -1,2 +1,2 @@
-# Mai-s-Coding-Profile
+# Mai's Coding Profile
 Ziyang Mai's coding archive
